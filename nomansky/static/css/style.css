@@ -96,7 +96,7 @@ a {
 
 .gallery-header {
     text-align: center;
-    margin-top: 8em;
+    /*margin-top: 2em;*/
     margin-bottom: 6.5em;
 }
 
@@ -106,6 +106,10 @@ a {
 
 #logo {
     width: 10%;
+    max-height: 10em;
+}
+#main-banner {
+
 }
 
 .gallery-header > h1 {
